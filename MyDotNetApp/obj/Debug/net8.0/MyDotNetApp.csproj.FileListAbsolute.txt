@@ -1,0 +1,14 @@
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.exe
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.deps.json
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.runtimeconfig.json
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.dll
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfo.cs
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.dll
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\refint\MyDotNetApp.dll
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.genruntimeconfig.cache
+C:\Users\ainsi\OneDrive\Desktop\project_showcase\dot-net\MyDotNetApp\obj\Debug\net8.0\ref\MyDotNetApp.dll
