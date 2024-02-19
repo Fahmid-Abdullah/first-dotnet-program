@@ -1,16 +1,19 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 class TaskManager
 {
+    // List to store tasks
     private List<string> tasks = new List<string>();
 
+    // Method to add a task to the list
     public void AddTask(string task)
     {
         tasks.Add(task);
         Console.WriteLine($"Task '{task}' added successfully.");
     }
 
+    // Method to mark a task as completed
     public void CompleteTask(int taskIndex)
     {
         if (taskIndex >= 0 && taskIndex < tasks.Count)
@@ -25,6 +28,7 @@ class TaskManager
         }
     }
 
+    // Method to view all tasks
     public void ViewTasks()
     {
         if (tasks.Count == 0)
@@ -48,6 +52,7 @@ class Program
     {
         TaskManager taskManager = new TaskManager();
 
+        // Main menu loop
         while (true)
         {
             Console.WriteLine("\nTask Manager Menu:");
@@ -57,16 +62,19 @@ class Program
             Console.WriteLine("4. Exit");
             Console.Write("Enter your choice: ");
 
+            // Input handling
             if (int.TryParse(Console.ReadLine(), out int choice))
             {
                 switch (choice)
                 {
                     case 1:
+                        // Adding a new task
                         Console.Write("Enter task description: ");
                         string newTask = Console.ReadLine();
                         taskManager.AddTask(newTask);
                         break;
                     case 2:
+                        // Marking a task as completed
                         Console.Write("Enter task index to mark as completed: ");
                         if (int.TryParse(Console.ReadLine(), out int taskIndexComplete))
                         {
@@ -78,9 +86,11 @@ class Program
                         }
                         break;
                     case 3:
+                        // Viewing all tasks
                         taskManager.ViewTasks();
                         break;
                     case 4:
+                        // Exiting the program
                         Console.WriteLine("Exiting Task Manager. Goodbye!");
                         return;
                     default:
